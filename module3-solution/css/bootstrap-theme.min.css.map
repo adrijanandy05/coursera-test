@@ -29,20 +29,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Coursera-WebDev-JHU-Assignments/script.js at master · adrijanandy05/Coursera-WebDev-JHU-Assignments</title>
-    <meta name="description" content="This repository contains my solutions to the Module - 2,3,4 and 5 Coding Assignments for HTML, CSS, JavaScript for Web Developers Course by Johns Hopkins University on Coursera. - adrijanandy05/Coursera-WebDev-JHU-Assignments">
+  <title>Coursera_HTML-CSS-Javascript-for-Web-Developers/bootstrap-theme.min.css.map at master · goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers</title>
+    <meta name="description" content="Solutions to the assignments of the Coursera course &quot;HTML, CSS, and Javascript for Web Developers&quot; by Johns Hopkins University. - goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars0.githubusercontent.com/u/36583713?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="adrijanandy05/Coursera-WebDev-JHU-Assignments" /><meta name="twitter:description" content="This repository contains my solutions to the Module - 2,3,4 and 5 Coding Assignments for HTML, CSS, JavaScript for Web Developers Course by Johns Hopkins University on Coursera. - adrijanandy05/Cou..." />
-    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/36583713?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="adrijanandy05/Coursera-WebDev-JHU-Assignments" /><meta property="og:url" content="https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments" /><meta property="og:description" content="This repository contains my solutions to the Module - 2,3,4 and 5 Coding Assignments for HTML, CSS, JavaScript for Web Developers Course by Johns Hopkins University on Coursera. - adrijanandy05/Cou..." />
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/1856425?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" /><meta name="twitter:description" content="Solutions to the assignments of the Coursera course &quot;HTML, CSS, and Javascript for Web Developers&quot; by Johns Hopkins University. - goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/1856425?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" /><meta property="og:url" content="https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" /><meta property="og:description" content="Solutions to the assignments of the Coursera course &quot;HTML, CSS, and Javascript for Web Developers&quot; by Johns Hopkins University. - goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTI2NTM3OTIyOjFhYmJjYmRkZTc4YTdlZWU0MDhkMTc4ZWI2MjE5Zjg1NDBkYjVjYjFmNTJmZDQ5NTJkNDY4ZjVjMjg5MTdlZjg=--ebc2768f3de4bef44139db5d63a443f38297a92d">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTI2NTM3OTIyOmM5ZGRjNzNlNWM0ZDg0ZjI5MWRhMzFkYWY3NzhmODFhYjhjNmI5Mzc3NWM2NzExMzljNmM1ZjMzMmY3N2Q4OTk=--78bec800f9c65d4333768991d6967707871dbe5b">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="FF8E:32BA:27B29C:349046:5EBD6A3A" data-pjax-transient="true" /><meta name="html-safe-nonce" content="136f916fb8f151f9d3155867dcb81de31b5bccae" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hZHJpamFuYW5keTA1L0NvdXJzZXJhLVdlYkRldi1KSFUtQXNzaWdubWVudHMvdHJlZS9tYXN0ZXIvbW9kdWxlLTMtc29sdXRpb24vanMiLCJyZXF1ZXN0X2lkIjoiRkY4RTozMkJBOjI3QjI5QzozNDkwNDY6NUVCRDZBM0EiLCJ2aXNpdG9yX2lkIjoiODk4NDg4OTc1MzA3MTQxNTg5OSIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="2f7207d38772ac485e61b171dd0df732c779553666374d62cc0465e72cf7c9f6" data-pjax-transient="true" />
+  <meta name="request-id" content="C654:40FF:8DDB9A:B9BC62:5EBD7335" data-pjax-transient="true" /><meta name="html-safe-nonce" content="136f916fb8f151f9d3155867dcb81de31b5bccae" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9nb2dnbGUvQ291cnNlcmFfSFRNTC1DU1MtSmF2YXNjcmlwdC1mb3ItV2ViLURldmVsb3BlcnMvdHJlZS9tYXN0ZXIvbW9kdWxlM19zb2x1dGlvbi9jc3MiLCJyZXF1ZXN0X2lkIjoiQzY1NDo0MEZGOjhEREI5QTpCOUJDNjI6NUVCRDczMzUiLCJ2aXNpdG9yX2lkIjoiODk4NDg4OTc1MzA3MTQxNTg5OSIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="9011d8fcb27d66e596de8502ad2e52bf3c6e475393fd8f885bbeb4cb96174f85" data-pjax-transient="true" />
 
 
 
@@ -77,21 +77,21 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MTI1NDk5MTNjODBiNjQyZGM0ZTFmNjE0N2RhNTE5YjdkZTMwYjZjZGVhOTc5ZTc4NzEyZWMzZGZhYWFjMjhmOHx7InJlbW90ZV9hZGRyZXNzIjoiNDcuOS4xOTIuMTQyIiwicmVxdWVzdF9pZCI6IkZGOEU6MzJCQToyN0IyOUM6MzQ5MDQ2OjVFQkQ2QTNBIiwidGltZXN0YW1wIjoxNTg5NDcxODEzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="ZGNhMTg3NDMxOTIzZDQ4YWY1ZjNjNmQxMWNmM2U0ZmVmZjBlMzNhYzAzNjEwMDExOWJjYWNiNTEwYWFkYWMwN3x7InJlbW90ZV9hZGRyZXNzIjoiNDcuOS4xOTIuMTQyIiwicmVxdWVzdF9pZCI6IkM2NTQ6NDBGRjo4RERCOUE6QjlCQzYyOjVFQkQ3MzM1IiwidGltZXN0YW1wIjoxNTg5NDc0MTEzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
 
   <meta http-equiv="x-pjax-version" content="9d9826c9ec6a2b8349aee96ae2ae1065">
   
 
-      <link href="https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments/commits/master.atom" rel="alternate" title="Recent Commits to Coursera-WebDev-JHU-Assignments:master" type="application/atom+xml">
+      <link href="https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/commits/master.atom" rel="alternate" title="Recent Commits to Coursera_HTML-CSS-Javascript-for-Web-Developers:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments git https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments.git">
+  <meta name="go-import" content="github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers git https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers.git">
 
-  <meta name="octolytics-dimension-user_id" content="36583713" /><meta name="octolytics-dimension-user_login" content="adrijanandy05" /><meta name="octolytics-dimension-repository_id" content="263693580" /><meta name="octolytics-dimension-repository_nwo" content="adrijanandy05/Coursera-WebDev-JHU-Assignments" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="53118461" /><meta name="octolytics-dimension-repository_parent_nwo" content="faheemzunjani/Coursera-WebDev-JHU-Assignments" /><meta name="octolytics-dimension-repository_network_root_id" content="53118461" /><meta name="octolytics-dimension-repository_network_root_nwo" content="faheemzunjani/Coursera-WebDev-JHU-Assignments" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
+  <meta name="octolytics-dimension-user_id" content="1856425" /><meta name="octolytics-dimension-user_login" content="goggle" /><meta name="octolytics-dimension-repository_id" content="75744884" /><meta name="octolytics-dimension-repository_nwo" content="goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="75744884" /><meta name="octolytics-dimension-repository_network_root_nwo" content="goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments/blob/master/module-3-solution/js/script.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/module3_solution/css/bootstrap-theme.min.css.map" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -147,7 +147,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="263693580" data-scoped-search-url="/adrijanandy05/Coursera-WebDev-JHU-Assignments/search" data-unscoped-search-url="/search" action="/adrijanandy05/Coursera-WebDev-JHU-Assignments/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="75744884" data-scoped-search-url="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/search" data-unscoped-search-url="/search" action="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -165,7 +165,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="cZWQb0/j5ON69+cQ+LXDYF1MuiElc4DUUT2p/tFNi0FKCiWdpvYRvP/eDmL2Zy5Q31/SO59rT+j82rvvVkxkzg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="4WB3CZqiSqa7mm88nVg31jCJh/u9gz9BhmDz7Cu5FDza/8L7c7e/+T6zhk6Titrmsprv4Qeb8H0rh+H9rLj7sw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -316,7 +316,7 @@
       <img class="avatar avatar-user" src="https://avatars2.githubusercontent.com/u/36583713?s=40&amp;v=4" width="20" height="20" alt="@adrijanandy05" />
       adrijanandy05
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hWg+3f0IvsrOubDXWH2N3K8tVUrgSLf5R+x0vS5R0tR0ryhPU+rxGOpiGCMvzO0KTH4UsCo5BU6D5AVyjXEdPQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nvUqyzpDejN2OC/6eyUU/sq9N2LGQ+aPbT3B0imM+PVvMjxZlKE14VLjhw4MlHQoKe52mAwyVDipNbAdiqw3HA==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-3 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 17" version="1.1" width="16" height="17" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"></path></svg>
         Sign out
@@ -327,10 +327,10 @@
 
   <div class="Header-item Header-item--full flex-justify-center d-lg-none position-relative">
     <div class="css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center">
-                <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
-    <a class="Header-link" href="/adrijanandy05">adrijanandy05</a>
+                <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+    <a class="Header-link" href="/goggle">goggle</a>
     /
-    <a class="Header-link" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments">Coursera-WebDev-JHU-Assignments</a>
+    <a class="Header-link" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers">Coursera_HTML-CSS-Javascript-for-Web-Developers</a>
 
 </div>
   </div>
@@ -370,10 +370,14 @@
   </a>
 
 
+  <div role="none" class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers">This repository</span>
+  </div>
+    <a role="menuitem" class="dropdown-item" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
+      New issue
+    </a>
 
-  <a role="menuitem" class="dropdown-item" href="/new/project" data-ga-click="Header, create new project">
-    New project
-  </a>
 
   </details-menu>
 </details>
@@ -409,7 +413,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:36583713,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:36583713,&quot;originating_url&quot;:&quot;https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments/blob/master/module-3-solution/js/script.js&quot;}}" data-hydro-click-hmac="e53f0b452f754d76f02652e2e869644219140cba7e337b72dda74dbf5dfd21b4">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:1856425,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:36583713,&quot;originating_url&quot;:&quot;https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/module3_solution/css/bootstrap-theme.min.css.map&quot;}}" data-hydro-click-hmac="9c5d94694b51c92e9ac9835d35a4792f1f40279c4e00c14d2552ea6759adbc1b">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -436,7 +440,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="QdlZ6GK5GJwjknR5Ga2io9Ymm/HGaWSGn9CrzVZy17GsBn4X9KSUA4crBuOZYZkMx5+RTWQAHgblhltjmDXsvw==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="6X9GEc+sL53urplAa7bctPqsfdmeStwG57IcmmEK/IwEoGHuWbGjAkoX69rreucb6xV3ZTwjpoad5Ow0r03Hgg==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
@@ -554,17 +558,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-05-14T21:56:53+05:30">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-05-14T22:35:13+05:30">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-05-14T22:26:53+05:30">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-05-14T23:05:13+05:30">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-05-15T01:26:53+05:30">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-05-15T02:05:13+05:30">
             in 4 hours
           </button>
         </li>
@@ -621,10 +625,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/adrijanandy05/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments/blob/master/module-3-solution/js/script.js&quot;,&quot;user_id&quot;:36583713}}"
-    data-feature-preview-close-hmac="9c9490d2e77a92d390db944090b99b3dceb720651db472434a8523bc062e2c71"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments/blob/master/module-3-solution/js/script.js&quot;,&quot;user_id&quot;:36583713}}"
-    data-hydro-click-hmac="ec22450d6170a41333702b802e58c79b0c80a49e5771c88b5831565f5a81d68c"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/module3_solution/css/bootstrap-theme.min.css.map&quot;,&quot;user_id&quot;:36583713}}"
+    data-feature-preview-close-hmac="68824cc810b871aa00f78dd694488e099de699b6750fb3fab41df6d35da7f788"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/module3_solution/css/bootstrap-theme.min.css.map&quot;,&quot;user_id&quot;:36583713}}"
+    data-hydro-click-hmac="de14582ce1dff97636f2e88349df70a3642b932ba9673ff6fa8efcdcdfeb8ea4"
   >
     Feature preview
   </button>
@@ -633,12 +637,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5Euh50W7FE8R8ZKkj+ZZr/j4bEO8NSGXt3xOUzDCxVQVjLd161lbnTUqOlD4Vzl5G6stuXZEkyBzdD+ck+IKvQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NR+7OHmJJOZBNdBkFQ/k8bjR0TwzpAktqF6+RvZt19bE2K2q12trNGXueJBivoQnW4KQxvnVu5psVs+JVU0YPw==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_de12" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1589471813314" class="form-control" /><input type="hidden" name="timestamp_secret" value="2c5708d8f9e305caf0678c7cc8a850960deda8f4d8b730c5df4ff8ffe213b824" class="form-control" />
+      <input type="text" name="required_field_ea62" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1589474113214" class="form-control" /><input type="hidden" name="timestamp_secret" value="19a836ee11572852d8784168594df7fcf60aaa5bfbc109738ec154b0f649fb31" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -704,21 +708,18 @@
       <div class="flex-auto min-width-0 width-fit mr-3">
         <h1 class="public  d-flex flex-wrap flex-items-center break-word float-none ">
   <span class="flex-self-stretch" style="margin-top: -2px;">
-      <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+      <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
   </span>
   <span class="author ml-2 flex-self-stretch" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/adrijanandy05/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/adrijanandy05">adrijanandy05</a>
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/goggle/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/goggle">goggle</a>
   </span>
   <span class="path-divider flex-self-stretch">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments">Coursera-WebDev-JHU-Assignments</a>
+    <a data-pjax="#js-repo-pjax-container" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers">Coursera_HTML-CSS-Javascript-for-Web-Developers</a>
   </strong>
   
 </h1>
 
-  <span class="fork-flag mt-1" data-repository-hovercards-enabled>
-    <span class="text">forked from <a data-hovercard-type="repository" data-hovercard-url="/faheemzunjani/Coursera-WebDev-JHU-Assignments/hovercard" href="/faheemzunjani/Coursera-WebDev-JHU-Assignments">faheemzunjani/Coursera-WebDev-JHU-Assignments</a></span>
-  </span>
 
       </div>
 
@@ -726,13 +727,17 @@
 
 
 
+    <li hidden>
+      <include-fragment src="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/used_by_count" accept="text/fragment+html">
+</include-fragment>
+    </li>
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tuG4Z5CwXfjKTMT0NBx23XqO8eUPsCdDkHti6TvrvDglhBi2uA5FeYwXgYyi/6E/XG5yV3Q9Wfxf1vkmJ1SdVg==" />      <input type="hidden" name="repository_id" value="263693580">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ILPMguVnJZseGsXAEWosf4LEzSIEZPUOV+dH+w1odO+z1mxTzdk9GlhBgLiHifudpCROkH/pi7GYStw0EddVgQ==" />      <input type="hidden" name="repository_id" value="75744884">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:263693580,&quot;originating_url&quot;:&quot;https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments/blob/master/module-3-solution/js/script.js&quot;,&quot;user_id&quot;:36583713}}" data-hydro-click-hmac="69f7ebeff67663229f4f6045896fc93c38b3769ac68520631591651a94c9c5f2" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:75744884,&quot;originating_url&quot;:&quot;https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/module3_solution/css/bootstrap-theme.min.css.map&quot;,&quot;user_id&quot;:36583713}}" data-hydro-click-hmac="aeccd5751280e55119be66661b5b239b63253bf660253f8d0ff25dabfe008ec7" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
               Watch
           </span>
@@ -794,46 +799,46 @@
         </details-menu>
       </details>
         <a class="social-count js-social-count"
-          href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/watchers"
-          aria-label="0 users are watching this repository">
-          0
+          href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/watchers"
+          aria-label="6 users are watching this repository">
+          6
         </a>
 </form>
   </li>
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/adrijanandy05/Coursera-WebDev-JHU-Assignments/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1fHWYX7TaxW6dcRz8yJ4ee0tOtrgodma4FYPaJn0tPS9coML56+pgDP0HoPmyR/2oIyR77c/jQOEoOORhkOBoQ==" />
+    <form class="starred js-social-form" action="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z6rDIxO0LUfPI3n8rJm8i+pOLu5Jap1sdAwph9DN0FUo2i2kTB4AnL9WXe+JzwLtAkT/ljHbkL6F9Nfq1loc8w==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar adrijanandy05/Coursera-WebDev-JHU-Assignments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:263693580,&quot;originating_url&quot;:&quot;https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments/blob/master/module-3-solution/js/script.js&quot;,&quot;user_id&quot;:36583713}}" data-hydro-click-hmac="21693ea5eebab4e90576bb76232de4bc1fb3199694377f32411bdc1347fece87" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:75744884,&quot;originating_url&quot;:&quot;https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/module3_solution/css/bootstrap-theme.min.css.map&quot;,&quot;user_id&quot;:36583713}}" data-hydro-click-hmac="2fc521bff25b5eb43d4cd33c8f1e7067eea63eb3076ee104ec180258a9c2e9a6" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
         Unstar
-</button>        <a class="social-count js-social-count" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/stargazers"
-           aria-label="0 users starred this repository">
-           0
+</button>        <a class="social-count js-social-count" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/stargazers"
+           aria-label="12 users starred this repository">
+           12
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/adrijanandy05/Coursera-WebDev-JHU-Assignments/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="S+334wDet3b/2fc4Hxk1rqNa4ch9/eEJgFWsDtxdd1AfbGwgQWsbcL/uuweHD29n/6jHGMEIbss2fb8xC9LK7w==" />
+    <form class="unstarred js-social-form" action="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JSczBPikrTdZnbP8uTpQDMy2vm9phAvhsfPSfOwTDrUu+bXpquHdwJQF+i+N7o4/0BdGT77ZL0HZZJj9zDcOIg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star adrijanandy05/Coursera-WebDev-JHU-Assignments" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:263693580,&quot;originating_url&quot;:&quot;https://github.com/adrijanandy05/Coursera-WebDev-JHU-Assignments/blob/master/module-3-solution/js/script.js&quot;,&quot;user_id&quot;:36583713}}" data-hydro-click-hmac="5b49d0a318e90c4e7839ad4d7b4e49ac74a173e9b6de7399c9e3be2dbe239878" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:75744884,&quot;originating_url&quot;:&quot;https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/module3_solution/css/bootstrap-theme.min.css.map&quot;,&quot;user_id&quot;:36583713}}" data-hydro-click-hmac="87dbf5827deb5601494cd797fe05f57e4492916ae28105513be8b1f10c9c71e8" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
         Star
-</button>        <a class="social-count js-social-count" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/stargazers"
-           aria-label="0 users starred this repository">
-          0
+</button>        <a class="social-count js-social-count" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/stargazers"
+           aria-label="12 users starred this repository">
+          12
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-        <span class="btn btn-sm btn-with-count disabled tooltipped tooltipped-sw" aria-label="Cannot fork because you own this repository and are not a member of any organizations.">
-          <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
-          Fork
-</span>
-    <a href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/network/members" class="social-count"
-       aria-label="225 users forked this repository">
-      225
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QqsDx8UjwaTWeUalR0mkxD9KN/rfO0QB4qxRhxIf/oQDJxrRw1SKJel1nFk+w/inknQgZd2oX2RXdp4mLk8dEw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:75744884,&quot;originating_url&quot;:&quot;https://github.com/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/master/module3_solution/css/bootstrap-theme.min.css.map&quot;,&quot;user_id&quot;:36583713}}" data-hydro-click-hmac="1705c52df889b820c2934014c12c50dfe4f43f5db6fd3c68ca824d147faeac3c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers to your account" aria-label="Fork your own copy of goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+              Fork
+</button></form>
+    <a href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/network/members" class="social-count"
+       aria-label="162 users forked this repository">
+      162
     </a>
   </li>
 </ul>
@@ -846,60 +851,62 @@
      data-pjax="#js-repo-pjax-container">
   <ul class="list-style-none">
     <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /adrijanandy05/Coursera-WebDev-JHU-Assignments" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers">
         <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg></div>
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </li>
 
+      <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/issues" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/issues">
+          <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></div>
+          <span itemprop="name">Issues</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="2">
+</a>      </li>
 
     <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /adrijanandy05/Coursera-WebDev-JHU-Assignments/pulls" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/pulls">
+      <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/pulls" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/pulls">
         <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg></div>
         <span itemprop="name">Pull requests</span>
-        <span class="Counter">0</span>
+        <span class="Counter">4</span>
         <meta itemprop="position" content="4">
 </a>    </li>
 
 
       <li itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left ">
-        <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /adrijanandy05/Coursera-WebDev-JHU-Assignments/actions" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/actions">
+        <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/actions" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/actions">
           <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8A7 7 0 110 8a7 7 0 0114 0zm-8.223 3.482l4.599-3.066a.5.5 0 000-.832L5.777 4.518A.5.5 0 005 4.934v6.132a.5.5 0 00.777.416z"></path></svg></div>
           Actions
 </a>
       </li>
 
       <li >
-        <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /adrijanandy05/Coursera-WebDev-JHU-Assignments/projects" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/projects">
+        <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/projects" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/projects">
           <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg></div>
           Projects
           <span class="Counter">0</span>
 </a>      </li>
 
       <li >
-        <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /adrijanandy05/Coursera-WebDev-JHU-Assignments/wiki" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/wiki">
+        <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/wiki" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/wiki">
           <div class="d-inline"><svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"></path></svg></div>
           Wiki
 </a>      </li>
 
       <li >
-        <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /adrijanandy05/Coursera-WebDev-JHU-Assignments/security" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/security">
+        <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/security" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/security">
           <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"></path></svg></div>
           Security
-              <span class="Counter js-security-tab-count" data-url="/adrijanandy05/Coursera-WebDev-JHU-Assignments/security/overall-count" hidden></span>
+              <span class="Counter js-security-tab-count" data-url="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/security/overall-count" hidden></span>
 </a>      </li>
 
       <li >
-        <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /adrijanandy05/Coursera-WebDev-JHU-Assignments/pulse" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/pulse">
+        <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/pulse" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/pulse">
           <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"></path></svg></div>
           Insights
 </a>      </li>
 
-      <li >
-        <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings repo_actions_settings notifications /adrijanandy05/Coursera-WebDev-JHU-Assignments/settings" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/settings">
-          <div class="d-inline"><svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"></path></svg></div>
-          Settings
-</a>      </li>
 
   </ul>
 </nav>
@@ -910,47 +917,57 @@
        itemtype="http://schema.org/BreadcrumbList">
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /adrijanandy05/Coursera-WebDev-JHU-Assignments" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers">
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </span>
 
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/issues" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/issues">
+          <span itemprop="name">Issues</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="2">
+</a>      </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /adrijanandy05/Coursera-WebDev-JHU-Assignments/pulls" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/pulls">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/pulls" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/pulls">
         <span itemprop="name">Pull requests</span>
-        <span class="Counter">0</span>
+        <span class="Counter">4</span>
         <meta itemprop="position" content="4">
 </a>    </span>
 
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /adrijanandy05/Coursera-WebDev-JHU-Assignments/projects" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/projects">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/projects" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/projects">
           <span itemprop="name">Projects</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="5">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /adrijanandy05/Coursera-WebDev-JHU-Assignments/actions" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/actions">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/actions" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/actions">
           <span itemprop="name">Actions</span>
           <meta itemprop="position" content="6">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /adrijanandy05/Coursera-WebDev-JHU-Assignments/wiki" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/wiki">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/wiki" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/wiki">
           <span itemprop="name">Wiki</span>
           <meta itemprop="position" content="7">
 </a>      </span>
 
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /adrijanandy05/Coursera-WebDev-JHU-Assignments/security" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/security">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/security" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/security">
         <span itemprop="name">Security</span>
             <span class="Counter js-security-deferred-tab-count" hidden></span>
         <meta itemprop="position" content="8">
 </a>
-      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /adrijanandy05/Coursera-WebDev-JHU-Assignments/pulse" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/pulse">
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/pulse" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/pulse">
         Pulse
 </a>
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/community" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/community">
+          Community
+</a>      </span>
 
   </nav>
 </div>
@@ -972,9 +989,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/blob/c6dbf2fdd1f52448a379cf262f4753259f1e1e10/module-3-solution/js/script.js">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blob/f141d734130ce0452109e29be27aeceeef5b4dc3/module3_solution/css/bootstrap-theme.min.css.map">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:289de47254a68a9f51133e195529c8c8 -->
+    <!-- blob contrib key: blob_contributors:v22:efd979a82b1b9135190fa40690676e68 -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
@@ -989,7 +1006,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/adrijanandy05/Coursera-WebDev-JHU-Assignments/refs/master/module-3-solution/js/script.js?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/refs/master/module3_solution/css/bootstrap-theme.min.css.map?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
@@ -999,29 +1016,29 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/find/master"
+          <a href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/find/master"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="module-3-solution/js/script.js" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="module3_solution/css/bootstrap-theme.min.css.map" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments"><span>Coursera-WebDev-JHU-Assignments</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/tree/master/module-3-solution"><span>module-3-solution</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/tree/master/module-3-solution/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers"><span>Coursera_HTML-CSS-Javascript-for-Web-Developers</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/tree/master/module3_solution"><span>module3_solution</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/tree/master/module3_solution/css"><span>css</span></a></span><span class="separator">/</span><strong class="final-path">bootstrap-theme.min.css.map</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/find/master"
+        <a href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="module-3-solution/js/script.js" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="module3_solution/css/bootstrap-theme.min.css.map" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -1029,16 +1046,45 @@
 
 
 
-    <include-fragment src="/adrijanandy05/Coursera-WebDev-JHU-Assignments/contributors/master/module-3-solution/js/script.js" class="Box Box--condensed commit-loader">
-      <div class="Box-body bg-blue-light f6">
-        Fetching contributors&hellip;
+    
+  <div class="Box Box--condensed d-flex flex-column flex-shrink-0 mb-3">
+      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
+        <span class="pr-md-4 f6">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/goggle/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/goggle"><img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/1856425?s=40&amp;v=4" width="20" height="20" alt="@goggle" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/users/goggle/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/goggle">goggle</a>
+            <span class="lh-default v-align-middle">
+              <a data-pjax="true" title="Solved assignment 3 including all the optinal parts." class="link-gray" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/commit/0801a8946bcd84e979dc8b0f289f1eeb41e3c0df">Solved assignment 3 including all the optinal parts.</a>
+            </span>
+        </span>
+        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
+          <a class="pr-2 text-mono link-gray" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/commit/0801a8946bcd84e979dc8b0f289f1eeb41e3c0df" data-pjax>0801a89</a>
+          <relative-time datetime="2016-12-15T03:23:48Z" class="no-wrap">Dec 15, 2016</relative-time>
+        </span>
       </div>
 
-      <div class="Box-body d-flex flex-items-center" >
-        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
+    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
+      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+        <summary class="btn-link">
+          <span><strong>1</strong> contributor</span>
+        </summary>
+        <details-dialog
+          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+          aria-label="Users who have contributed to this file"
+          src="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/contributors-list/master/module3_solution/css/bootstrap-theme.min.css.map" preload>
+          <div class="Box-header">
+            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+            </button>
+            <h3 class="Box-title">
+              Users who have contributed to this file
+            </h3>
+          </div>
+          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+        </details-dialog>
+      </details>
+    </div>
+  </div>
+
 
 
 
@@ -1050,17 +1096,17 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      0 lines (0 sloc)
+      1 lines (1 sloc)
       <span class="file-info-divider"></span>
-    0 Bytes
+    25 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/raw/master/module-3-solution/js/script.js">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/blame/master/module-3-solution/js/script.js">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/commits/master/module-3-solution/js/script.js">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/raw/master/module3_solution/css/bootstrap-theme.min.css.map">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blame/master/module3_solution/css/bootstrap-theme.min.css.map">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/commits/master/module3_solution/css/bootstrap-theme.min.css.map">History</a>
     </div>
 
 
@@ -1073,15 +1119,15 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/adrijanandy05/Coursera-WebDev-JHU-Assignments/edit/master/module-3-solution/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ceR9mro7j1Dg9UykCkkuL0Bqou3LPwfTqIUki86A7ZVmqVUeGtfNDL2vWRhmvWHqRi+1kbVPi0eVsdEX5hCcGw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/edit/master/module3_solution/css/bootstrap-theme.min.css.map" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iZXxZ0Q/DKOoDpSH+XHe6/jw8946b2uSur662EDxU4Sx763iH7L4lPgQtgN+R60M5BNRyVnMuoFqctcvElPIpA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/adrijanandy05/Coursera-WebDev-JHU-Assignments/delete/master/module-3-solution/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bz5MY4zXDap425PI/UURD/3JIf+A8/KJKdLdiL0DatxU+JUuAopUSl6zub8NNZgpaIImEwOZ6NMWVt64MqhV2g==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/delete/master/module3_solution/css/bootstrap-theme.min.css.map" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hbpMOMVbGJxTahMFiS5yiGEnmIL2xd1tn7ezNflvz4gFT1Q6z2gZD0bvJuwN4pHrhAfxvINbJ1xw1uxjcZGG8g==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete this file" data-disable-with>
+              aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
             </button>
 </form>    </div>
@@ -1095,6 +1141,10 @@
   <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text ">
       
 <table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">{&quot;version&quot;:3,&quot;sources&quot;:[&quot;less/theme.less&quot;,&quot;less/mixins/vendor-prefixes.less&quot;,&quot;less/mixins/gradients.less&quot;,&quot;less/mixins/reset-filter.less&quot;],&quot;names&quot;:[],&quot;mappings&quot;:&quot;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&quot;,&quot;sourcesContent&quot;:[&quot;/*!\n * Bootstrap v3.3.7 (http://getbootstrap.com)\n * Copyright 2011-2016 Twitter, Inc.\n * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)\n */\n\n//\n// Load core variables and mixins\n// --------------------------------------------------\n\n@import \&quot;variables.less\&quot;;\n@import \&quot;mixins.less\&quot;;\n\n\n//\n// Buttons\n// --------------------------------------------------\n\n// Common styles\n.btn-default,\n.btn-primary,\n.btn-success,\n.btn-info,\n.btn-warning,\n.btn-danger {\n  text-shadow: 0 -1px 0 rgba(0,0,0,.2);\n  @shadow: inset 0 1px 0 rgba(255,255,255,.15), 0 1px 1px rgba(0,0,0,.075);\n  .box-shadow(@shadow);\n\n  // Reset the shadow\n  &amp;:active,\n  &amp;.active {\n    .box-shadow(inset 0 3px 5px rgba(0,0,0,.125));\n  }\n\n  &amp;.disabled,\n  &amp;[disabled],\n  fieldset[disabled] &amp; {\n    .box-shadow(none);\n  }\n\n  .badge {\n    text-shadow: none;\n  }\n}\n\n// Mixin for generating new styles\n.btn-styles(@btn-color: #555) {\n  #gradient &gt; .vertical(@start-color: @btn-color; @end-color: darken(@btn-color, 12%));\n  .reset-filter(); // Disable gradients for IE9 because filter bleeds through rounded corners; see https://github.com/twbs/bootstrap/issues/10620\n  background-repeat: repeat-x;\n  border-color: darken(@btn-color, 14%);\n\n  &amp;:hover,\n  &amp;:focus  {\n    background-color: darken(@btn-color, 12%);\n    background-position: 0 -15px;\n  }\n\n  &amp;:active,\n  &amp;.active {\n    background-color: darken(@btn-color, 12%);\n    border-color: darken(@btn-color, 14%);\n  }\n\n  &amp;.disabled,\n  &amp;[disabled],\n  fieldset[disabled] &amp; {\n    &amp;,\n    &amp;:hover,\n    &amp;:focus,\n    &amp;.focus,\n    &amp;:active,\n    &amp;.active {\n      background-color: darken(@btn-color, 12%);\n      background-image: none;\n    }\n  }\n}\n\n// Common styles\n.btn {\n  // Remove the gradient for the pressed/active state\n  &amp;:active,\n  &amp;.active {\n    background-image: none;\n  }\n}\n\n// Apply the mixin to the buttons\n.btn-default { .btn-styles(@btn-default-bg); text-shadow: 0 1px 0 #fff; border-color: #ccc; }\n.btn-primary { .btn-styles(@btn-primary-bg); }\n.btn-success { .btn-styles(@btn-success-bg); }\n.btn-info    { .btn-styles(@btn-info-bg); }\n.btn-warning { .btn-styles(@btn-warning-bg); }\n.btn-danger  { .btn-styles(@btn-danger-bg); }\n\n\n//\n// Images\n// --------------------------------------------------\n\n.thumbnail,\n.img-thumbnail {\n  .box-shadow(0 1px 2px rgba(0,0,0,.075));\n}\n\n\n//\n// Dropdowns\n// --------------------------------------------------\n\n.dropdown-menu &gt; li &gt; a:hover,\n.dropdown-menu &gt; li &gt; a:focus {\n  #gradient &gt; .vertical(@start-color: @dropdown-link-hover-bg; @end-color: darken(@dropdown-link-hover-bg, 5%));\n  background-color: darken(@dropdown-link-hover-bg, 5%);\n}\n.dropdown-menu &gt; .active &gt; a,\n.dropdown-menu &gt; .active &gt; a:hover,\n.dropdown-menu &gt; .active &gt; a:focus {\n  #gradient &gt; .vertical(@start-color: @dropdown-link-active-bg; @end-color: darken(@dropdown-link-active-bg, 5%));\n  background-color: darken(@dropdown-link-active-bg, 5%);\n}\n\n\n//\n// Navbar\n// --------------------------------------------------\n\n// Default navbar\n.navbar-default {\n  #gradient &gt; .vertical(@start-color: lighten(@navbar-default-bg, 10%); @end-color: @navbar-default-bg);\n  .reset-filter(); // Remove gradient in IE&lt;10 to fix bug where dropdowns don&#39;t get triggered\n  border-radius: @navbar-border-radius;\n  @shadow: inset 0 1px 0 rgba(255,255,255,.15), 0 1px 5px rgba(0,0,0,.075);\n  .box-shadow(@shadow);\n\n  .navbar-nav &gt; .open &gt; a,\n  .navbar-nav &gt; .active &gt; a {\n    #gradient &gt; .vertical(@start-color: darken(@navbar-default-link-active-bg, 5%); @end-color: darken(@navbar-default-link-active-bg, 2%));\n    .box-shadow(inset 0 3px 9px rgba(0,0,0,.075));\n  }\n}\n.navbar-brand,\n.navbar-nav &gt; li &gt; a {\n  text-shadow: 0 1px 0 rgba(255,255,255,.25);\n}\n\n// Inverted navbar\n.navbar-inverse {\n  #gradient &gt; .vertical(@start-color: lighten(@navbar-inverse-bg, 10%); @end-color: @navbar-inverse-bg);\n  .reset-filter(); // Remove gradient in IE&lt;10 to fix bug where dropdowns don&#39;t get triggered; see https://github.com/twbs/bootstrap/issues/10257\n  border-radius: @navbar-border-radius;\n  .navbar-nav &gt; .open &gt; a,\n  .navbar-nav &gt; .active &gt; a {\n    #gradient &gt; .vertical(@start-color: @navbar-inverse-link-active-bg; @end-color: lighten(@navbar-inverse-link-active-bg, 2.5%));\n    .box-shadow(inset 0 3px 9px rgba(0,0,0,.25));\n  }\n\n  .navbar-brand,\n  .navbar-nav &gt; li &gt; a {\n    text-shadow: 0 -1px 0 rgba(0,0,0,.25);\n  }\n}\n\n// Undo rounded corners in static and fixed navbars\n.navbar-static-top,\n.navbar-fixed-top,\n.navbar-fixed-bottom {\n  border-radius: 0;\n}\n\n// Fix active state of dropdown items in collapsed mode\n@media (max-width: @grid-float-breakpoint-max) {\n  .navbar .navbar-nav .open .dropdown-menu &gt; .active &gt; a {\n    &amp;,\n    &amp;:hover,\n    &amp;:focus {\n      color: #fff;\n      #gradient &gt; .vertical(@start-color: @dropdown-link-active-bg; @end-color: darken(@dropdown-link-active-bg, 5%));\n    }\n  }\n}\n\n\n//\n// Alerts\n// --------------------------------------------------\n\n// Common styles\n.alert {\n  text-shadow: 0 1px 0 rgba(255,255,255,.2);\n  @shadow: inset 0 1px 0 rgba(255,255,255,.25), 0 1px 2px rgba(0,0,0,.05);\n  .box-shadow(@shadow);\n}\n\n// Mixin for generating new styles\n.alert-styles(@color) {\n  #gradient &gt; .vertical(@start-color: @color; @end-color: darken(@color, 7.5%));\n  border-color: darken(@color, 15%);\n}\n\n// Apply the mixin to the alerts\n.alert-success    { .alert-styles(@alert-success-bg); }\n.alert-info       { .alert-styles(@alert-info-bg); }\n.alert-warning    { .alert-styles(@alert-warning-bg); }\n.alert-danger     { .alert-styles(@alert-danger-bg); }\n\n\n//\n// Progress bars\n// --------------------------------------------------\n\n// Give the progress background some depth\n.progress {\n  #gradient &gt; .vertical(@start-color: darken(@progress-bg, 4%); @end-color: @progress-bg)\n}\n\n// Mixin for generating new styles\n.progress-bar-styles(@color) {\n  #gradient &gt; .vertical(@start-color: @color; @end-color: darken(@color, 10%));\n}\n\n// Apply the mixin to the progress bars\n.progress-bar            { .progress-bar-styles(@progress-bar-bg); }\n.progress-bar-success    { .progress-bar-styles(@progress-bar-success-bg); }\n.progress-bar-info       { .progress-bar-styles(@progress-bar-info-bg); }\n.progress-bar-warning    { .progress-bar-styles(@progress-bar-warning-bg); }\n.progress-bar-danger     { .progress-bar-styles(@progress-bar-danger-bg); }\n\n// Reset the striped class because our mixins don&#39;t do multiple gradients and\n// the above custom styles override the new `.progress-bar-striped` in v3.2.0.\n.progress-bar-striped {\n  #gradient &gt; .striped();\n}\n\n\n//\n// List groups\n// --------------------------------------------------\n\n.list-group {\n  border-radius: @border-radius-base;\n  .box-shadow(0 1px 2px rgba(0,0,0,.075));\n}\n.list-group-item.active,\n.list-group-item.active:hover,\n.list-group-item.active:focus {\n  text-shadow: 0 -1px 0 darken(@list-group-active-bg, 10%);\n  #gradient &gt; .vertical(@start-color: @list-group-active-bg; @end-color: darken(@list-group-active-bg, 7.5%));\n  border-color: darken(@list-group-active-border, 7.5%);\n\n  .badge {\n    text-shadow: none;\n  }\n}\n\n\n//\n// Panels\n// --------------------------------------------------\n\n// Common styles\n.panel {\n  .box-shadow(0 1px 2px rgba(0,0,0,.05));\n}\n\n// Mixin for generating new styles\n.panel-heading-styles(@color) {\n  #gradient &gt; .vertical(@start-color: @color; @end-color: darken(@color, 5%));\n}\n\n// Apply the mixin to the panel headings only\n.panel-default &gt; .panel-heading   { .panel-heading-styles(@panel-default-heading-bg); }\n.panel-primary &gt; .panel-heading   { .panel-heading-styles(@panel-primary-heading-bg); }\n.panel-success &gt; .panel-heading   { .panel-heading-styles(@panel-success-heading-bg); }\n.panel-info &gt; .panel-heading      { .panel-heading-styles(@panel-info-heading-bg); }\n.panel-warning &gt; .panel-heading   { .panel-heading-styles(@panel-warning-heading-bg); }\n.panel-danger &gt; .panel-heading    { .panel-heading-styles(@panel-danger-heading-bg); }\n\n\n//\n// Wells\n// --------------------------------------------------\n\n.well {\n  #gradient &gt; .vertical(@start-color: darken(@well-bg, 5%); @end-color: @well-bg);\n  border-color: darken(@well-bg, 10%);\n  @shadow: inset 0 1px 3px rgba(0,0,0,.05), 0 1px 0 rgba(255,255,255,.1);\n  .box-shadow(@shadow);\n}\n&quot;,&quot;// Vendor Prefixes\n//\n// All vendor mixins are deprecated as of v3.2.0 due to the introduction of\n// Autoprefixer in our Gruntfile. They have been removed in v4.\n\n// - Animations\n// - Backface visibility\n// - Box shadow\n// - Box sizing\n// - Content columns\n// - Hyphens\n// - Placeholder text\n// - Transformations\n// - Transitions\n// - User Select\n\n\n// Animations\n.animation(@animation) {\n  -webkit-animation: @animation;\n       -o-animation: @animation;\n          animation: @animation;\n}\n.animation-name(@name) {\n  -webkit-animation-name: @name;\n          animation-name: @name;\n}\n.animation-duration(@duration) {\n  -webkit-animation-duration: @duration;\n          animation-duration: @duration;\n}\n.animation-timing-function(@timing-function) {\n  -webkit-animation-timing-function: @timing-function;\n          animation-timing-function: @timing-function;\n}\n.animation-delay(@delay) {\n  -webkit-animation-delay: @delay;\n          animation-delay: @delay;\n}\n.animation-iteration-count(@iteration-count) {\n  -webkit-animation-iteration-count: @iteration-count;\n          animation-iteration-count: @iteration-count;\n}\n.animation-direction(@direction) {\n  -webkit-animation-direction: @direction;\n          animation-direction: @direction;\n}\n.animation-fill-mode(@fill-mode) {\n  -webkit-animation-fill-mode: @fill-mode;\n          animation-fill-mode: @fill-mode;\n}\n\n// Backface visibility\n// Prevent browsers from flickering when using CSS 3D transforms.\n// Default value is `visible`, but can be changed to `hidden`\n\n.backface-visibility(@visibility) {\n  -webkit-backface-visibility: @visibility;\n     -moz-backface-visibility: @visibility;\n          backface-visibility: @visibility;\n}\n\n// Drop shadows\n//\n// Note: Deprecated `.box-shadow()` as of v3.1.0 since all of Bootstrap&#39;s\n// supported browsers that have box shadow capabilities now support it.\n\n.box-shadow(@shadow) {\n  -webkit-box-shadow: @shadow; // iOS &lt;4.3 &amp; Android &lt;4.1\n          box-shadow: @shadow;\n}\n\n// Box sizing\n.box-sizing(@boxmodel) {\n  -webkit-box-sizing: @boxmodel;\n     -moz-box-sizing: @boxmodel;\n          box-sizing: @boxmodel;\n}\n\n// CSS3 Content Columns\n.content-columns(@column-count; @column-gap: @grid-gutter-width) {\n  -webkit-column-count: @column-count;\n     -moz-column-count: @column-count;\n          column-count: @column-count;\n  -webkit-column-gap: @column-gap;\n     -moz-column-gap: @column-gap;\n          column-gap: @column-gap;\n}\n\n// Optional hyphenation\n.hyphens(@mode: auto) {\n  word-wrap: break-word;\n  -webkit-hyphens: @mode;\n     -moz-hyphens: @mode;\n      -ms-hyphens: @mode; // IE10+\n       -o-hyphens: @mode;\n          hyphens: @mode;\n}\n\n// Placeholder text\n.placeholder(@color: @input-color-placeholder) {\n  // Firefox\n  &amp;::-moz-placeholder {\n    color: @color;\n    opacity: 1; // Override Firefox&#39;s unusual default opacity; see https://github.com/twbs/bootstrap/pull/11526\n  }\n  &amp;:-ms-input-placeholder { color: @color; } // Internet Explorer 10+\n  &amp;::-webkit-input-placeholder  { color: @color; } // Safari and Chrome\n}\n\n// Transformations\n.scale(@ratio) {\n  -webkit-transform: scale(@ratio);\n      -ms-transform: scale(@ratio); // IE9 only\n       -o-transform: scale(@ratio);\n          transform: scale(@ratio);\n}\n.scale(@ratioX; @ratioY) {\n  -webkit-transform: scale(@ratioX, @ratioY);\n      -ms-transform: scale(@ratioX, @ratioY); // IE9 only\n       -o-transform: scale(@ratioX, @ratioY);\n          transform: scale(@ratioX, @ratioY);\n}\n.scaleX(@ratio) {\n  -webkit-transform: scaleX(@ratio);\n      -ms-transform: scaleX(@ratio); // IE9 only\n       -o-transform: scaleX(@ratio);\n          transform: scaleX(@ratio);\n}\n.scaleY(@ratio) {\n  -webkit-transform: scaleY(@ratio);\n      -ms-transform: scaleY(@ratio); // IE9 only\n       -o-transform: scaleY(@ratio);\n          transform: scaleY(@ratio);\n}\n.skew(@x; @y) {\n  -webkit-transform: skewX(@x) skewY(@y);\n      -ms-transform: skewX(@x) skewY(@y); // See https://github.com/twbs/bootstrap/issues/4885; IE9+\n       -o-transform: skewX(@x) skewY(@y);\n          transform: skewX(@x) skewY(@y);\n}\n.translate(@x; @y) {\n  -webkit-transform: translate(@x, @y);\n      -ms-transform: translate(@x, @y); // IE9 only\n       -o-transform: translate(@x, @y);\n          transform: translate(@x, @y);\n}\n.translate3d(@x; @y; @z) {\n  -webkit-transform: translate3d(@x, @y, @z);\n          transform: translate3d(@x, @y, @z);\n}\n.rotate(@degrees) {\n  -webkit-transform: rotate(@degrees);\n      -ms-transform: rotate(@degrees); // IE9 only\n       -o-transform: rotate(@degrees);\n          transform: rotate(@degrees);\n}\n.rotateX(@degrees) {\n  -webkit-transform: rotateX(@degrees);\n      -ms-transform: rotateX(@degrees); // IE9 only\n       -o-transform: rotateX(@degrees);\n          transform: rotateX(@degrees);\n}\n.rotateY(@degrees) {\n  -webkit-transform: rotateY(@degrees);\n      -ms-transform: rotateY(@degrees); // IE9 only\n       -o-transform: rotateY(@degrees);\n          transform: rotateY(@degrees);\n}\n.perspective(@perspective) {\n  -webkit-perspective: @perspective;\n     -moz-perspective: @perspective;\n          perspective: @perspective;\n}\n.perspective-origin(@perspective) {\n  -webkit-perspective-origin: @perspective;\n     -moz-perspective-origin: @perspective;\n          perspective-origin: @perspective;\n}\n.transform-origin(@origin) {\n  -webkit-transform-origin: @origin;\n     -moz-transform-origin: @origin;\n      -ms-transform-origin: @origin; // IE9 only\n          transform-origin: @origin;\n}\n\n\n// Transitions\n\n.transition(@transition) {\n  -webkit-transition: @transition;\n       -o-transition: @transition;\n          transition: @transition;\n}\n.transition-property(@transition-property) {\n  -webkit-transition-property: @transition-property;\n          transition-property: @transition-property;\n}\n.transition-delay(@transition-delay) {\n  -webkit-transition-delay: @transition-delay;\n          transition-delay: @transition-delay;\n}\n.transition-duration(@transition-duration) {\n  -webkit-transition-duration: @transition-duration;\n          transition-duration: @transition-duration;\n}\n.transition-timing-function(@timing-function) {\n  -webkit-transition-timing-function: @timing-function;\n          transition-timing-function: @timing-function;\n}\n.transition-transform(@transition) {\n  -webkit-transition: -webkit-transform @transition;\n     -moz-transition: -moz-transform @transition;\n       -o-transition: -o-transform @transition;\n          transition: transform @transition;\n}\n\n\n// User select\n// For selecting text on the page\n\n.user-select(@select) {\n  -webkit-user-select: @select;\n     -moz-user-select: @select;\n      -ms-user-select: @select; // IE10+\n          user-select: @select;\n}\n&quot;,&quot;// Gradients\n\n#gradient {\n\n  // Horizontal gradient, from left to right\n  //\n  // Creates two color stops, start and end, by specifying a color and position for each color stop.\n  // Color stops are not available in IE9 and below.\n  .horizontal(@start-color: #555; @end-color: #333; @start-percent: 0%; @end-percent: 100%) {\n    background-image: -webkit-linear-gradient(left, @start-color @start-percent, @end-color @end-percent); // Safari 5.1-6, Chrome 10+\n    background-image: -o-linear-gradient(left, @start-color @start-percent, @end-color @end-percent); // Opera 12\n    background-image: linear-gradient(to right, @start-color @start-percent, @end-color @end-percent); // Standard, IE10, Firefox 16+, Opera 12.10+, Safari 7+, Chrome 26+\n    background-repeat: repeat-x;\n    filter: e(%(\&quot;progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;%d&#39;, endColorstr=&#39;%d&#39;, GradientType=1)\&quot;,argb(@start-color),argb(@end-color))); // IE9 and down\n  }\n\n  // Vertical gradient, from top to bottom\n  //\n  // Creates two color stops, start and end, by specifying a color and position for each color stop.\n  // Color stops are not available in IE9 and below.\n  .vertical(@start-color: #555; @end-color: #333; @start-percent: 0%; @end-percent: 100%) {\n    background-image: -webkit-linear-gradient(top, @start-color @start-percent, @end-color @end-percent);  // Safari 5.1-6, Chrome 10+\n    background-image: -o-linear-gradient(top, @start-color @start-percent, @end-color @end-percent);  // Opera 12\n    background-image: linear-gradient(to bottom, @start-color @start-percent, @end-color @end-percent); // Standard, IE10, Firefox 16+, Opera 12.10+, Safari 7+, Chrome 26+\n    background-repeat: repeat-x;\n    filter: e(%(\&quot;progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;%d&#39;, endColorstr=&#39;%d&#39;, GradientType=0)\&quot;,argb(@start-color),argb(@end-color))); // IE9 and down\n  }\n\n  .directional(@start-color: #555; @end-color: #333; @deg: 45deg) {\n    background-repeat: repeat-x;\n    background-image: -webkit-linear-gradient(@deg, @start-color, @end-color); // Safari 5.1-6, Chrome 10+\n    background-image: -o-linear-gradient(@deg, @start-color, @end-color); // Opera 12\n    background-image: linear-gradient(@deg, @start-color, @end-color); // Standard, IE10, Firefox 16+, Opera 12.10+, Safari 7+, Chrome 26+\n  }\n  .horizontal-three-colors(@start-color: #00b3ee; @mid-color: #7a43b6; @color-stop: 50%; @end-color: #c3325f) {\n    background-image: -webkit-linear-gradient(left, @start-color, @mid-color @color-stop, @end-color);\n    background-image: -o-linear-gradient(left, @start-color, @mid-color @color-stop, @end-color);\n    background-image: linear-gradient(to right, @start-color, @mid-color @color-stop, @end-color);\n    background-repeat: no-repeat;\n    filter: e(%(\&quot;progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;%d&#39;, endColorstr=&#39;%d&#39;, GradientType=1)\&quot;,argb(@start-color),argb(@end-color))); // IE9 and down, gets no color-stop at all for proper fallback\n  }\n  .vertical-three-colors(@start-color: #00b3ee; @mid-color: #7a43b6; @color-stop: 50%; @end-color: #c3325f) {\n    background-image: -webkit-linear-gradient(@start-color, @mid-color @color-stop, @end-color);\n    background-image: -o-linear-gradient(@start-color, @mid-color @color-stop, @end-color);\n    background-image: linear-gradient(@start-color, @mid-color @color-stop, @end-color);\n    background-repeat: no-repeat;\n    filter: e(%(\&quot;progid:DXImageTransform.Microsoft.gradient(startColorstr=&#39;%d&#39;, endColorstr=&#39;%d&#39;, GradientType=0)\&quot;,argb(@start-color),argb(@end-color))); // IE9 and down, gets no color-stop at all for proper fallback\n  }\n  .radial(@inner-color: #555; @outer-color: #333) {\n    background-image: -webkit-radial-gradient(circle, @inner-color, @outer-color);\n    background-image: radial-gradient(circle, @inner-color, @outer-color);\n    background-repeat: no-repeat;\n  }\n  .striped(@color: rgba(255,255,255,.15); @angle: 45deg) {\n    background-image: -webkit-linear-gradient(@angle, @color 25%, transparent 25%, transparent 50%, @color 50%, @color 75%, transparent 75%, transparent);\n    background-image: -o-linear-gradient(@angle, @color 25%, transparent 25%, transparent 50%, @color 50%, @color 75%, transparent 75%, transparent);\n    background-image: linear-gradient(@angle, @color 25%, transparent 25%, transparent 50%, @color 50%, @color 75%, transparent 75%, transparent);\n  }\n}\n&quot;,&quot;// Reset filters for IE\n//\n// When you need to remove a gradient background, do not forget to use this to reset\n// the IE filter for IE9 and below.\n\n.reset-filter() {\n  filter: e(%(\&quot;progid:DXImageTransform.Microsoft.gradient(enabled = false)\&quot;));\n}\n&quot;]}</td>
+      </tr>
 </table>
 
   <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
@@ -1113,7 +1163,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/adrijanandy05/Coursera-WebDev-JHU-Assignments/blame/c6dbf2fdd1f52448a379cf262f4753259f1e1e10/module-3-solution/js/script.js">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/blame/f141d734130ce0452109e29be27aeceeef5b4dc3/module3_solution/css/bootstrap-theme.min.css.map">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
